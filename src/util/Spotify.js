@@ -1,8 +1,8 @@
 //import SearchBar from "../Components/SearchBar/SearchBar";
 
 const clientId = '';
-//const redirectUri = "http://playlist_maker.surge.sh ";
-const redirectUri = "http://localhost:3000"; //local testing
+const redirectUri = "http://playlist_maker.surge.sh ";
+//const redirectUri = "http://localhost:3000"; //local testing
 let accessToken;
 let userId;
 
