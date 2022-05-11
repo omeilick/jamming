@@ -2,6 +2,8 @@
 
 Test it out yourself at https://playlist_maker.surge.sh/ 
 
+**USE CTRL + CLICK or CMD + CLICK TO OPEN IN NEW TAB**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
