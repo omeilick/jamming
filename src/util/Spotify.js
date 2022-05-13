@@ -1,7 +1,7 @@
 //import SearchBar from "../Components/SearchBar/SearchBar";
 
 const clientId = '';
-const redirectUri = "http://playlist_maker.surge.sh ";
+const redirectUri = "https://omeilick.github.io/jamming/";
 //const redirectUri = "http://localhost:3000"; //local testing
 let accessToken;
 let userId;
