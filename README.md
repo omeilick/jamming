@@ -1,6 +1,6 @@
 # Jamming 
 
-Test it out yourself at https://playlist_maker.surge.sh/ 
+Test it out yourself at https://omeilick.github.io/jamming/ 
 
 **USE CTRL + CLICK or CMD + CLICK TO OPEN IN NEW TAB**
 
